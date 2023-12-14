@@ -186,7 +186,7 @@ order by 11 DESC
 /*
     - The United States, China, India, France, and Germany are the top five countries with the highest number of recorded COVID-19 cases.
    -  The United States, Brazil, India, Russia, and Mexico are the top five countries with the highest number of COVID-19 deaths.
-   -  country where the population is greater than 1 million
+  
 */
 
 
