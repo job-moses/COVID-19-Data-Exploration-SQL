@@ -1,4 +1,4 @@
-# COVID-19-Data-Exploration-SQL
+# COVID-19 Data Exploration
 
 ## Introduction
 This project delves into the exploration of COVID-19 data spanning from 2020 to 2023, aiming to unravel temporal trends, regional disparities, and significant milestones in the pandemic. Leveraging SQL queries, I unveil insights into the dynamics of cases, deaths, and vaccination efforts and further vizualize the findngs in tableau to effectively communicate the findings
@@ -10,7 +10,7 @@ The dataset use in this project is from Ourwordindata page which is  [available 
 The inital Data preparation was done after the dataset was downloaded in microsoft excel, this involve
 1. Create two other csv file (Covid cases and CovidVaccination)
 2. columns in the covidcases worksheet  (iso_code,	continent,	location,	population	,date,	new_cases	,total_cases	    ,total_deaths	,new_deaths ) 
-3. The CovidVaccination is consit of columns (iso_code,	continent,	location,	date	,total_vaccinations,	people_vaccinated	,people_fully_vaccinated,	total_boosters	new_vaccinations)
+3. The CovidVaccination is consist of columns (iso_code,	continent,	location,	date	,total_vaccinations,	people_vaccinated	,people_fully_vaccinated,	total_boosters	new_vaccinations)
 
 ## Data Loading into SQL Server
 1. download SQL server using this [link](https://www.microsoft.com/en-us/sql-server/sql-server-downloads), step by step tutorial on how to get started with SQL server is in this [link](https://www.sqlservertutorial.net/install-sql-server/)
