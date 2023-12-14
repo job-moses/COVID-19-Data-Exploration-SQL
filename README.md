@@ -28,8 +28,7 @@ View the [SQL Query Here](https://github.com/job-moses/COVID-19-Data-Exploration
 
 ![](COVID19DASHBOARD.png)
 
-[Click](https://public.tableau.com/app/profile/job.moses/viz/Covid19Dashboard_17024391109300/COVID19DASHBOARD) to view in my Tableau Public 
-## Key Findings
+[Click](https://public.tableau.com/app/profile/job.moses/viz/Covid19Dashboard_17024391109300/COVID19DASHBOARD) to view in my Tableau Public
 
 
 ### Key Findings
