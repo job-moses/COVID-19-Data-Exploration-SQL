@@ -13,7 +13,7 @@ The inital Data preparation was done after the dataset was downloaded in microso
 3. The CovidVaccination is consist of columns (iso_code,	continent,	location,	date	,total_vaccinations,	people_vaccinated	,people_fully_vaccinated,	total_boosters	new_vaccinations)
 
 ## Data Loading into SQL Server
-1. download SQL server using this [link](https://www.microsoft.com/en-us/sql-server/sql-server-downloads), step by step tutorial on how to get started with SQL server is in this [link](https://www.sqlservertutorial.net/install-sql-server/)
+1. Download SQL server using this [link](https://www.microsoft.com/en-us/sql-server/sql-server-downloads), step by step tutorial on how to get started with SQL server is in this [link](https://www.sqlservertutorial.net/install-sql-server/)
 2. Create Database Covid19
 3. Import the CovidCases , the workbook created in the Data preparation step
 4. Import The covidVaccination
