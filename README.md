@@ -1,7 +1,7 @@
 # COVID-19-Data-Exploration-SQL
 
 ## Introduction
-This project delves into the exploration of COVID-19 data spanning from 2020 to 2023, aiming to unravel temporal trends, regional disparities, and significant milestones in the pandemic. Leveraging SQL queries, we unveil insights into the dynamics of cases, deaths, and vaccination efforts and further vizualize the findngs in tableau to effectively communicate the findings
+This project delves into the exploration of COVID-19 data spanning from 2020 to 2023, aiming to unravel temporal trends, regional disparities, and significant milestones in the pandemic. Leveraging SQL queries, I unveil insights into the dynamics of cases, deaths, and vaccination efforts and further vizualize the findngs in tableau to effectively communicate the findings
 
 ## Dataset collection
 The dataset use in this project is from Ourwordindata page which is  [available here](https://ourworldindata.org/coronavirus). It encompasses global COVID-19 records, including infection cases, deaths, and vaccination statistics, etc. Data spans four years, offering a comprehensive view of the evolving pandemic.
